@@ -1,4 +1,8 @@
+// https://leetcode.com/problems/majority-element/
 package Arrays.Medium;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class MajorityElements {
     public int majorityElement(int[] nums) {
