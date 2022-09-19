@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class SubarraySumEqualsTok {
     public int subarraySum(int[] nums, int k) {
         int count = 0;
